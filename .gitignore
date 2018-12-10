@@ -68,3 +68,6 @@ yarn-error.log
 
 # other
 report/
+
+gatsby-deploy.enc
+gatsby-deploy.pub
